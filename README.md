@@ -8,12 +8,9 @@
 dambrosbruno/dambrosbruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Languages, Tools and habilities 
-
-Python ![image](https://user-images.githubusercontent.com/84512641/120374019-6442be00-c2ef-11eb-9e9a-0f165d8ab202.png)
-Shell  
-Java Script
-GitHub
-MySQL
-Visual Studio Code
-Linux Ubuntu
+Languages:
+🇬🇧 English 
+🇮🇹 Italian
+🇫🇷 French
+🇪🇸 Spanish
+🇵🇹 Portughese
