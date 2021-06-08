@@ -1,3 +1,4 @@
+## Who I am:
 - 👋 Hi, I’m @dambrosbruno
 - 👀 I’m interested in social sciences, politics, music, brazilian jiu jitsu and programming
 - 🌱 I’m currently learning how to be a software developer and being a good lover (this last one is hardeeeer!)
@@ -12,6 +13,13 @@
 🇪🇸 Spanish
 🇵🇹 Portughese
 </p>
+
+## What I have studied:
+- Bachelor in Social Sciences at UFSC
+- Master in philosophy at UFPEL
+- Doctor in Philosphy at UFPR
+- Visitor research fellow at Political Science at The Hebrew University of Jerusalem
+- Software developer at PUC
 
 ## Skills:
 <p align="center">
