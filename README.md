@@ -1,8 +1,8 @@
 ## Who I am:
 - 👋 Hi, I’m @dambrosbruno
 - 👀 I’m interested in social sciences, politics, music, brazilian jiu jitsu and data science
-- 🌱 I’m currently learning how to be a data analyst and being a good lover (this last one is hardeeeer!)
-- 💞️ I’m looking for collaborating on projects which have something to do with public security, geolocation and music
+- 🌱 I’m a data analyst
+- 💞️ I’m looking for collaborating on projects which have something to do with public security, geolocation and music or market analysis
 - 📫 How to reach me: it is easy: give me a hug and look into my eyes :-))
 
 ## Languages:
